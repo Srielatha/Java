@@ -1,0 +1,117 @@
+Session - 1
+
+Java introduction- write once and run anywhere - 
+JVM - Java virtual Machine - compiler compiles your program(bytecode), interpreter - understands and runs your program
+C++ vs Java
+Eclipse introduction - eclipse.org
+Object oriented programming introduction- encapsulation- security, polymorphism - many forms, inheritance - parent child relations
+Java books - How to Program by dietel -9th(java 1.7), 10th-edition-early objects(java 1.8), Head first java
+Box
+SVN - a repository - webex session on how to use SVN-
+GIT - a repository - java ee examples
+clearcase
+TFS
+JDK vs JRE(we need JRE to run application written in java) VS JVM
+JVM- Machine to understand and run your program instructions
+JRE-> has JVM and other set of libraries inside the ext folder
+JDK- JRE, JVM with compilers and debuggers
+JRE- doesn't have java compilers and debuggers
+Command line programming JVM - javac - creates bytecode, java
+Class - is a blueprint for an object(https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
+
+
+---------JAVA BUILDING BLOCKS----------
+
+Understanding Java class structure
+	Fields and methods
+	Comments
+	Classes vs files
+	writing main method
+	Narrowing and widening conversions
+
+Understanding Package declarations and imports
+	creating new packages
+	wildcards
+	redundant imports
+	naming conflicts
+
+Creating Objects
+	constructors
+	reading and writing object fields
+	instance initializer blocks
+	order of initialization
+
+Distinguishing between Object references and primitives
+	primitive types(Octal(starts with 0-base 8),hex(starts with 0x or 0X-base16) 
+		and binary(0b or 0B - base2))	
+	reference types
+	key differences
+
+Declaring and initializing variables
+	declaring multiple variables(comma separated variables)
+	identifiers($,_)
+
+Understanding default initialization of variables
+	Local variables
+	Instance and class variables
+
+Understanding variable scope
+
+Ordering elements in a class - PIC,fields and methods can be defined any where
+
+Destroying objects
+	-GC
+	-finalize()
+	
+
+Session- II
+P - i++,i--
+U -++i,--i
+M- M,D,mod
+A -A,S
+S- <<,>>,>>>
+R-<,><=,>=
+E- ==, !=
+B- &
+B- ^
+B-|
+L- &&
+L-||
+T-?:
+A- =,+=,-=
+
+Understanding Java Operators
+	Working with Binary Arithmetic Operators
+	Arithmetic Operators
+	Numeric Promotion
+Working with Unary Operators
+	Logical Complement and Negation Operators
+	Increment and Decrement Operators
+Using Additional Binary Operators
+	Assignment Operators
+	Compound Assignment Operators
+	Relational Operators
+	Logical Operators
+	Equality Operators
+Understanding Java Statements
+	The if-then Statement 67
+	The if-then-else Statement 68
+	The switch Statement 72
+	The while Statement 76
+	The do-while Statement 78
+	The for Statement 80
+Understanding Advanced Flow Control
+	Nested Loops
+	Adding Optional Labels
+	The break Statement
+	The continue Statement
+
+v.rudrareddy@gmail.com,
+nkalusani@gmail.com,
+u.srilatha666@gmail.com,
+tejaswireddy.gade@gmail.com
+
+
+
+
+
